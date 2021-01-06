@@ -10,6 +10,8 @@ namespace Hello_World
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World from my Visual Studio 2019.. tada.. !");
+            Console.ReadKey();
         }
     }
 }
